@@ -1,0 +1,195 @@
+
+2026-05-23:INFO:*****Test 01 Title Verification*****
+2026-05-23:INFO:*****Test 01 Title matched*****
+2026-05-23:INFO:*****Test 02 Valid Admin Login*****
+2026-05-23:INFO:*****Test 01 valid login successfully*****
+2026-05-23:INFO:*****Test 03 Invalid Admin Login*****
+2026-05-23:INFO:*****Test 03 invalid login error msg matched *****
+2026-05-24:INFO:*****Test 01 Title Verification*****
+2026-05-24:INFO:*****Test 01 Title matched*****
+2026-05-24:INFO:*****Test 02 Valid Admin Login*****
+2026-05-24:INFO:*****Test 01 valid login successfully*****
+2026-05-24:INFO:*****Test 03 Invalid Admin Login*****
+2026-05-24:INFO:*****Test 03 invalid login error msg matched *****
+2026-05-24:INFO:*****Test 01 Title Verification*****
+2026-05-24:INFO:*****Test 03 Invalid Admin Login*****
+2026-05-24:INFO:*****Test 02 Valid Admin Login*****
+2026-05-24:INFO:*****Test 01 Title matched*****
+2026-05-24:INFO:*****Test 03 invalid login error msg matched *****
+2026-05-24:INFO:*****Test 01 valid login successfully*****
+2026-05-24:INFO:*****Test 01 Title Verification*****
+2026-05-24:INFO:*****Test 01 Title matched*****
+2026-05-24:INFO:*****Test 02 Valid Admin Login*****
+2026-05-24:INFO:*****Test 01 valid login successfully*****
+2026-05-24:INFO:*****Test 03 Invalid Admin Login*****
+2026-05-24:INFO:*****Test 03 invalid login error msg matched *****
+2026-05-24:INFO:*****Test 01 Title Verification*****
+2026-05-24:INFO:*****Test 01 Title matched*****
+2026-05-24:INFO:*****Test 02 Valid Admin Login*****
+2026-05-24:INFO:*****Test 01 valid login successfully*****
+2026-05-24:INFO:*****Test 03 Invalid Admin Login*****
+2026-05-24:INFO:*****Test 03 invalid login error msg matched *****
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:Test Data Driven Failed
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:*****Test Valid Admin Login Data Driven Started*****
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-05-31:INFO:Test Data Driven Passed
+2026-06-11:INFO:Test Add New Customer
+2026-06-11:INFO:***********Login Successful*******
+2026-06-11:INFO:**********Starting add new customer*******
+2026-06-11:INFO:Test Add New Customer
+2026-06-11:INFO:***********Login Successful*******
+2026-06-11:INFO:**********Starting add new customer*******
+2026-06-11:INFO:Test Add New Customer
+2026-06-11:INFO:***********Login Successful*******
+2026-06-11:INFO:**********Starting add new customer*******
+2026-06-11:INFO:Test Add New Customer Passed
+2026-06-11:INFO:Test Add New Customer
+2026-06-11:INFO:***********Login Successful*******
+2026-06-11:INFO:**********Starting add new customer*******
+2026-06-11:INFO:Test Add New Customer
+2026-06-11:INFO:***********Login Successful*******
+2026-06-11:INFO:**********Starting add new customer*******
+2026-06-11:INFO:Test Add New Customer
+2026-06-11:INFO:***********Login Successful*******
+2026-06-11:INFO:**********Starting add new customer*******
+2026-06-11:INFO:Test Add New Customer Passed
+2026-06-11:INFO:***Search Customer***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by name***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by companyname***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by name***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by name***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by companyname***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by name***
+2026-06-11:INFO:***Search Customer by companyname***
+2026-06-11:INFO:***Search Customer***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by name***
+2026-06-11:INFO:***Search Customer by companyname***
+2026-06-11:INFO:***Search Customer***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by name***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:***Search Customer by companyname***
+2026-06-11:INFO:***login success***
+2026-06-11:INFO:***navigating to search page***
+2026-06-11:INFO:Test Add New Customer
+2026-06-11:INFO:***********Login Successful*******
+2026-06-11:INFO:**********Starting add new customer*******
+2026-06-12:INFO:***Search Customer***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by email***
+2026-06-12:INFO:***Search Customer by companyname***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***Search Customer***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by email***
+2026-06-12:INFO:***search_customer_by_email***
+2026-06-12:INFO:***Search Customer by name***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by name***
+2026-06-12:INFO:***search_customer_by_name***
+2026-06-12:INFO:***Search Customer by companyname***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***Search Customer***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***Search Customer by name***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by name***
+2026-06-12:INFO:***search_customer_by_name***
+2026-06-12:INFO:***Search Customer by companyname***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by companyname***
+2026-06-12:INFO:***search_customer_by_companyname***
+2026-06-12:INFO:***Search Customer***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***Search Customer by name***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by name***
+2026-06-12:INFO:***search_customer_by_name***
+2026-06-12:INFO:***Search Customer by companyname***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by companyname***
+2026-06-12:INFO:***search_customer_by_companyname***
+2026-06-12:INFO:***Search Customer***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by email***
+2026-06-12:INFO:***search_customer_by_email***
+2026-06-12:INFO:***Search Customer by name***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by name***
+2026-06-12:INFO:***search_customer_by_name***
+2026-06-12:INFO:***Search Customer by companyname***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by companyname***
+2026-06-12:INFO:***Search Customer***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by email***
+2026-06-12:INFO:***search_customer_by_email***
+2026-06-12:INFO:***Search Customer by name***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by name***
+2026-06-12:INFO:***search_customer_by_name***
+2026-06-12:INFO:***Search Customer by companyname***
+2026-06-12:INFO:***login success***
+2026-06-12:INFO:***navigating to search page***
+2026-06-12:INFO:***starting search customer by companyname***
+2026-06-12:INFO:***search_customer_by_companyname***

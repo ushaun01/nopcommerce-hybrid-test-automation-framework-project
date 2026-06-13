@@ -1,0 +1,4 @@
+﻿username,password,expected_login
+admin@yourstore.com,admin,Yes
+admin123@yourstore.com,admin123,No
+admin456@yourstore.com,admin345,No
