@@ -1,4 +1,4 @@
- 🚀 NopCommerce Hybrid Test Automation Framework using Selenium, Python & PyTest
+ 🚀 NopCommerce Hybrid Test Automation Framework using Selenium, Python & PyTest 
 
  🎯 Project Objective
 
